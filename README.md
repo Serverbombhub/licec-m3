@@ -1,3 +1,3 @@
 {
-  "لاینسس دو هفته": "2 day i\u0026$@*×bimber sms vip panell apk.;:_"
+  "api-free": "http://194.5.176.141/spamer1.php?shomare\u003d"
 }
